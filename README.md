@@ -1,4 +1,4 @@
-# Executive Summary
+# README
 
 Description: 
 In this exercise, I performed data transformation via Python Pandas and MySQL Server to onboard new client data which was received in the format of the client’s legacy database. The appropriate import templates were selected after careful consideration of client needs and data availability.
