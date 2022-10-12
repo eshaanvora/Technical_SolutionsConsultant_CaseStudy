@@ -1,0 +1,38 @@
+﻿Security Type,New Security Type
+Asset-Backed Security,CMO
+Call/Put Option,Option
+Cash & Cash Equivalents,Cash
+CD,Certificate of Deposit
+Closed-End Mutual Fund,Closed-End Fund
+Collateralized Mortgage Obligation,CMO
+Commercial Paper,Bond
+Common Stock,Stock
+Convertible Note,Bond
+Currency,Cash
+Debenture,Bond
+Exchange Traded Fund,ETF
+Exchange Traded Note,ETN
+Futures,Futures Contract
+FX/Forex Forward,Forward Contract
+LP,Limited Partnerships
+Master Limited Partnership,MLP
+Money Market,Money Market Fund
+Mortgage-Backed Security,CMO
+Municipal Bond,Bond
+Note,Bond
+Open-End Fund,Mutual Fund
+Pass-Through Security,CMO
+Preferred Equity,Preferred Stock
+Rate Swap,Interest Rate Swap
+Real Estate Investment Trust,REIT
+Senior Convertible Note,Convertible Note
+Stock Rights,Rights
+Stock Warrant,Warrant
+Strips,Bond
+Structured Product,Bond
+Sweep,Money Market Fund
+T-Bill,Bond
+TIPS (Treasury Inflation-Protected Securities),Bond
+Trust Certificate,Bond
+Unit Investment Trust,UIT
+Zero-Coupon,Bond

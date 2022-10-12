@@ -1,0 +1,68 @@
+Position,CUSIP,ISIN,SEDOL,Ticker Symbol,Asset Type,Asset Class,Sub-Asset Class,Currency,Domicile,Exchange,Industry,S&P Bond Type,S&P Bond Sub-Type,S&P Issuer State,ICE Debt Type,Frequency,Callable,Coupon Rate,Dated Date,Maturity Date,Principal Factor
+Abbvie Inc,00287Y109,US00287Y1091,B92SR70,ABBV,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Pharmaceuticals cosmetics & med. products,-,-,-,-,,-,,,,-
+Adobe Inc,00724F101,US00724F1012,2008154,ADBE,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,"Internet, software & IT services",-,-,-,-,,-,,,,-
+Agilent Technologies,00846U101,US00846U1016,2520153,A,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Biotechnology,-,-,-,-,,-,,,,-
+Alibaba Group Holding  F Sponsored ADR,01609W102,US01609W1027,BP41ZD1,BABA,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Miscellaneous services,-,-,-,-,,-,,,,-
+Alphabet Inc. Class                  A,02079K305,US02079K3059,BYVY8G0,GOOGL,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,"Internet, software & IT services",-,-,-,-,,-,,,,-
+Amgen Inc.,031162100,US0311621009,2023607,AMGN,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,Biotechnology,-,-,-,-,,-,,,,-
+Apple Inc,037833100,US0378331005,2046251,AAPL,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,Electronics,-,-,-,-,,-,,,,-
+Arlington CNTY VA   4%27 Go Utx      Due 08/01/27,041431MT1,-,-,-,Municipal Bond,Fixed Income,-,USD,-,-,-,MUNI,LOC,VA,BOND,Semi-annually,Callable,0.04,2013-05-09,2027-08-01,1
+Bank Of America Corp,060505104,US0605051046,2295677,BAC,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Banks & other credit institutions,-,-,-,-,,-,,,,-
+Becton Dickinson&co,075887109,US0758871091,2087807,BDX,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Pharmaceuticals cosmetics & med. products,-,-,-,-,,-,,,,-
+BlackRock Inc,09247X101,US09247X1019,2494504,BLK,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc","Financial, investment & other diversified comp.",-,-,-,-,,-,,,,-
+Borgwarner Inc Com,099724106,-,-,BWA,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Vehicles,-,-,-,-,,-,,,,-
+Boston Scientific Co,101137107,US1011371077,2113434,BSX,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Pharmaceuticals cosmetics & med. products,-,-,-,-,,-,,,,-
+Bristol-Myers Squibb,110122108,US1101221083,2126335,BMY,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Pharmaceuticals cosmetics & med. products,-,-,-,-,,-,,,,-
+Broadcom Inc,11135F101,US11135F1012,BDZ78H9,AVGO,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,Computer hardware & networking,-,-,-,-,,-,,,,-
+Cash,,,,-,Cash & Cash Equivalents,Cash,-,USD,-,-,-,-,-,-,-,,-,,,,-
+Cerner Corp,156782104,US1567821046,2185284,CERN,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,Healthcare & social services,-,-,-,-,,-,,,,-
+Change Healthcare Inc,15912K100,US15912K1007,-,CHNG,Common Stock,Equity,US Equities,USD,-,NASDAQ OMX,"Internet, software & IT services",-,-,-,-,,-,,,,-
+Charles Schwab Corp,808513105,US8085131055,2779397,SCHW,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc","Financial, investment & other diversified comp.",-,-,-,-,,-,,,,-
+Chevron Corp,166764100,US1667641005,2838555,CVX,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Petroleum/Oil and natural gas,-,-,-,-,,-,,,,-
+CIGNA Corp,125523100,US1255231003,BHJ0775,CI,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Insurance companies,-,-,-,-,,-,,,,-
+Cisco Systems Inc,17275R102,US17275R1023,2198163,CSCO,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,Computer hardware & networking,-,-,-,-,,-,,,,-
+Comcast Corp Class                  A,20030N101,US20030N1019,2044545,CMCSA,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,"Graphics, publishing & printing media",-,-,-,-,,-,,,,-
+Cummins Inc,231021106,US2310211063,2240202,CMI,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Mechanical engineering & industrial equip.,-,-,-,-,,-,,,,-
+Discover Finl S,254709108,US2547091080,B1YLC43,DFS,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Banks & other credit institutions,-,-,-,-,,-,,,,-
+Eastman Chemical Co,277432100,US2774321002,2298386,EMN,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Chemicals,-,-,-,-,,-,,,,-
+Emerson Electric Co,291011104,US2910111044,2313405,EMR,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Electrical appliances & components,-,-,-,-,,-,,,,-
+Exxon Mobil Corp,30231G102,US30231G1022,2326618,XOM,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Petroleum/Oil and natural gas,-,-,-,-,,-,,,,-
+Facebook Inc Class                  A,30303M102,US30303M1027,B7TL820,FB,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,"Internet, software & IT services",-,-,-,-,,-,,,,-
+Fairfax CNTY VA     5%23 Go Utx      Due 10/01/23,30382ACF7,-,-,-,Municipal Bond,Fixed Income,US Municipals/Tax Exempt,USD,-,-,-,MUNI,LOC,VA,BOND,Semi-annually,-,0.05,2014-11-04,2023-10-01,1
+Hampton VA          5%23 Go Utx      Due 09/01/23,4095583Z4,-,-,-,Municipal Bond,Fixed Income,US Municipals/Tax Exempt,USD,-,-,-,MUNI,LOC,VA,BOND,Semi-annually,-,0.05,2015-04-23,2023-09-01,1
+Home Depot Inc,437076102,US4370761029,2434209,HD,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Retail trade & department stores,-,-,-,-,,-,,,,-
+Intel Corp,458140100,US4581401001,2463247,INTC,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,Electronics & semiconductors,-,-,-,-,,-,,,,-
+iShares Core S&P Mid Cap ETF,464287507,US4642875078,2611637,IJH,Exchange Traded Fund,Equity,US Equities,USD,United States,NYSE Arca,Investment trusts/funds & provisioning inst.,-,-,-,-,,-,,,,-
+iShares MSCI EAFE Growth ETF,464288885,US4642888857,B0DNFK0,EFG,Exchange Traded Fund,Equity,Global Equities,USD,United States,NYSE Arca,Investment trusts/funds & provisioning inst.,-,-,-,-,,-,,,,-
+iShares MSCI Emerging Markets ETF,464287234,US4642872349,2582409,EEM,Exchange Traded Fund,Equity,Global Equities,USD,United States,NYSE Arca,Investment trusts/funds & provisioning inst.,-,-,-,-,,-,,,,-
+Ishars Edg MSCI USA QLTY FCTR ETF,46432F339,US46432F3394,BCDL393,QUAL,Exchange Traded Fund,Equity,Direct Private Companies,USD,United States,NYSE Arca,Investment trusts/funds & provisioning inst.,-,-,-,-,,-,,,,-
+J P Morgan Chase & Co,46625H100,US46625H1005,2190385,JPM,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Banks & other credit institutions,-,-,-,-,,-,,,,-
+Jabil Circuit Inc,466313103,US4663131039,2471789,JBL,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Electronics & semiconductors,-,-,-,-,,-,,,,-
+Johnson & Johnson,478160104,US4781601046,2475833,JNJ,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Pharmaceuticals cosmetics & med. products,-,-,-,-,,-,,,,-
+JPMorgan Ultra SHRT Muncipl Incm ETF,46641Q654,US46641Q6540,-,JMST,Exchange Traded Fund,Fixed Income,US Municipals/Tax Exempt,USD,-,-,-,-,-,-,-,,-,,,,-
+Kroger Co,501044101,US5010441013,2497406,KR,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Retail trade & department stores,-,-,-,-,,-,,,,-
+L3harris Technologies In,502431109,US5024311095,BK9DTN5,LHX,Common Stock,Equity,-,USD,-,-,-,-,-,-,-,,-,,,,-
+Marathon Pete Corp,56585A102,US56585A1025,B3K3L40,MPC,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Petroleum/Oil and natural gas,-,-,-,-,,-,,,,-
+Masco Corp,574599106,US5745991068,2570200,MAS,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Miscellaneous consumer goods,-,-,-,-,,-,,,,-
+Mastercard Inc Class                  A,57636Q104,US57636Q1040,B121557,MA,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Banks & other credit institutions,-,-,-,-,,-,,,,-
+Mckesson Corp Exchange Offer,58155Q103,US58155Q1031,2378534,MCK,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Pharmaceuticals cosmetics & med. products,-,-,-,-,,-,,,,-
+Merck & Co. Inc.,58933Y105,US58933Y1055,2778844,MRK,Common Stock,Equity,-,USD,United States,"New York Stock Exchange, Inc",Pharmaceuticals cosmetics & med. products,-,-,-,-,,-,,,,-
+Microsoft Corp,594918104,US5949181045,2588173,MSFT,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,"Internet, software & IT services",-,-,-,-,,-,,,,-
+Nike Inc Class                  B,654106103,US6541061031,2640147,NKE,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc","Textiles, garments & leather goods",-,-,-,-,,-,,,,-
+Norfolk Southern Co,655844108,US6558441084,2641894,NSC,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Traffic & Transportation,-,-,-,-,,-,,,,-
+Procter & Gamble,742718109,US7427181091,2704407,PG,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Miscellaneous consumer goods,-,-,-,-,,-,,,,-
+Prudential Finl,744320102,US7443201022,2819118,PRU,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Insurance companies,-,-,-,-,,-,,,,-
+Schwab Value Advantage Money Fund,808515605,-,-,SWVXX,Money Market,Cash,Cash Equivalents,USD,United States,Nasdaq OMX Mutual Fund Dissemination Service,Investment trusts/funds & provisioning inst. ,-,-,-,-,,-,,,,-
+SPDR S&P 600 Small Cap Value ETF,78464A300,US78464A3005,2792071,SLYV,Exchange Traded Fund,Equity,US Equities,USD,United States,NYSE Arca,Investment trusts/funds & provisioning inst.,-,-,-,-,,-,,,,-
+Starbucks Corp,855244109,US8552441094,2842255,SBUX,Common Stock,Equity,US Equities,USD,United States,NASDAQ OMX,"Lodging & catering ind., leisure facilities",-,-,-,-,,-,,,,-
+United Parcel SRVC Class                  B,911312106,US9113121068,2517382,UPS,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Traffic & Transportation,-,-,-,-,,-,,,,-
+VA CMWLTH Trans BRD 4%26 GRNT        Due 03/15/26,927790DL6,-,-,-,Municipal Bond,Fixed Income,US Municipals/Tax Exempt,USD,-,-,-,MUNI,LOC,VA,BOND,Semi-annually,Callable,0.04,2012-03-01,2026-03-15,1
+VA CMWLTH Univ      5%20 Pub Educ    Due 11/01/20,92778REE3,-,-,-,Municipal Bond,Fixed Income,-,USD,-,-,-,MUNI,LOC,VA,BOND,Semi-annually,Callable,0.05,2018-11-01,2020-11-01,1
+VA ST Pub BLDG Auth 5%21 BLDG Auth   Due 08/01/21,928172D93,-,-,-,Municipal Bond,Fixed Income,US Municipals/Tax Exempt,USD,-,-,-,MUNI,LOC,VA,BOND,Semi-annually,-,0.05,2014-09-17,2021-08-01,1
+Vanguard FTSE Developed Markets ETF,921943858,US9219438580,B23MX41,VEA,Exchange Traded Fund,Equity,Global Equities,USD,United States,NYSE Arca,Investment trusts/funds & provisioning inst.,-,-,-,-,,-,,,,-
+Verizon Communicatn,92343V104,US92343V1044,2090571,VZ,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Telecommunication,-,-,-,-,,-,,,,-
+Virginia State Res  5%22 **Partial**,92818MY61,-,-,-,Municipal Bond,Fixed Income,-,USD,-,-,-,MUNI,LOC,VA,BOND,Semi-annually,-,0.05,2015-11-18,2022-11-01,1
+Virginia State Res  5%22 Finl Auth   Due 11/01/22,92818MW97,-,-,-,Municipal Bond,Fixed Income,-,USD,-,-,-,MUNI,LOC,VA,BOND,Semi-annually,-,0.05,2015-11-18,2022-11-01,1
+VMware Inc Class A,928563402,US9285634021,B23SN61,VMW,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc","Internet, software & IT services",-,-,-,-,,-,,,,-
+WalMart Inc,931142103,US9311421039,2936921,WMT,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc",Retail trade & department stores,-,-,-,-,,-,,,,-
+Walt Disney Co,254687106,US2546871060,2270726,DIS,Common Stock,Equity,US Equities,USD,United States,"New York Stock Exchange, Inc","Graphics, publishing & printing media",-,-,-,-,,-,,,,-

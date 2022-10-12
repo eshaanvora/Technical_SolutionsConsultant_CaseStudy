@@ -1,0 +1,363 @@
+Owned_Name,Owned_Type,Type,Date,Units,Amount,Currency
+Cerner Corp,Stock,Buy,2020-08-28,75.0,-5457.75,USD
+Agilent Technologies,Stock,Buy,2020-08-28,165.0,-16391.1,USD
+Chevron Corp,Stock,Buy,2020-09-29,75.0,-5370.75,USD
+Broadcom Inc,Stock,Buy,2020-09-29,50.0,-18311.25,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Buy,2020-11-05,300000.0,-300000.0,USD
+JPMorgan Ultra SHRT Muncipl Incm ETF,ETF,Buy,2020-12-31,8000.0,-408399.2,USD
+Boston Scientific Co,Stock,Buy,2021-02-24,200.0,-7877.72,USD
+Exxon Mobil Corp,Stock,Buy,2021-02-24,150.0,-8475.75,USD
+Cisco Systems Inc,Stock,Buy,2021-05-04,300.0,-15178.5,USD
+J P Morgan Chase & Co,Stock,Buy,2021-05-04,35.0,-5419.09,USD
+VMware Inc Class A,Stock,Buy,2021-05-04,85.0,-13599.99,USD
+Marathon Pete Corp,Stock,Buy,2021-05-04,75.0,-4347.38,USD
+Jabil Circuit Inc,Stock,Buy,2021-05-04,300.0,-15542.97,USD
+Borgwarner Inc Com,Stock,Buy,2021-06-01,200.0,-10589.04,USD
+Chevron Corp,Stock,Buy,2021-06-01,100.0,-10647.5,USD
+Bristol-Myers Squibb,Stock,Buy,2021-06-01,150.0,-9779.34,USD
+Boston Scientific Co,Stock,Buy,2021-06-01,100.0,-4308.5,USD
+Kroger Co,Stock,Sell,2020-07-02,-200.0,6780.85,USD
+Change Healthcare Inc,Stock,Sell,2020-07-08,-171.0,1805.72,USD
+Chevron Corp,Stock,Sell,2020-07-08,-50.0,4306.15,USD
+Discover Finl S,Stock,Sell,2020-07-08,-150.0,7199.09,USD
+Kroger Co,Stock,Sell,2020-07-08,-100.0,3354.11,USD
+Norfolk Southern Co,Stock,Sell,2020-07-08,-25.0,4338.78,USD
+Becton Dickinson&co,Stock,Sell,2020-07-08,-25.0,6298.86,USD
+Home Depot Inc,Stock,Sell,2020-07-08,-60.0,14941.47,USD
+Verizon Communicatn,Stock,Sell,2020-07-08,-100.0,5510.38,USD
+Microsoft Corp,Stock,Sell,2020-07-08,-50.0,10506.02,USD
+J P Morgan Chase & Co,Stock,Sell,2020-07-08,-100.0,9224.8,USD
+Intel Corp,Stock,Sell,2020-07-08,-250.0,14550.93,USD
+L3harris Technologies In,Stock,Sell,2020-07-08,-50.0,8336.32,USD
+Walt Disney Co,Stock,Sell,2020-07-08,-50.0,5656.62,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Sell,2020-07-08,-260000.0,260000.0,USD
+Adobe Inc,Stock,Sell,2020-07-08,-10.0,4535.2,USD
+Vanguard FTSE Developed Markets ETF,ETF,Sell,2020-07-08,-1000.0,39434.13,USD
+Comcast Corp Class                  A,Stock,Sell,2020-07-08,-150.0,5993.12,USD
+Prudential Finl,Stock,Sell,2020-07-15,-60.0,3806.92,USD
+Eastman Chemical Co,Stock,Sell,2020-07-15,-50.0,3750.67,USD
+Vanguard FTSE Developed Markets ETF,ETF,Sell,2020-07-15,-100.0,4058.41,USD
+J P Morgan Chase & Co,Stock,Sell,2020-07-15,-60.0,6034.07,USD
+WalMart Inc,Stock,Sell,2020-07-15,-75.0,9849.59,USD
+Discover Finl S,Stock,Sell,2020-07-15,-60.0,2965.73,USD
+Home Depot Inc,Stock,Sell,2020-07-15,-25.0,6500.11,USD
+Adobe Inc,Stock,Sell,2020-07-15,-10.0,4347.5,USD
+Apple Inc,Stock,Sell,2020-07-15,-50.0,19696.31,USD
+Microsoft Corp,Stock,Sell,2020-07-15,-75.0,15713.71,USD
+iShares MSCI EAFE Growth ETF,ETF,Sell,2020-07-15,-100.0,8726.81,USD
+Vanguard FTSE Developed Markets ETF,ETF,Sell,2020-07-20,-200.0,8110.82,USD
+J P Morgan Chase & Co,Stock,Sell,2020-07-20,-90.0,8790.56,USD
+Intel Corp,Stock,Sell,2020-07-20,-150.0,9138.55,USD
+Home Depot Inc,Stock,Sell,2020-07-20,-15.0,3909.89,USD
+Adobe Inc,Stock,Sell,2020-07-20,-10.0,4543.5,USD
+Microsoft Corp,Stock,Sell,2020-07-20,-15.0,3157.58,USD
+Amgen Inc.,Stock,Sell,2020-07-20,-10.0,2598.19,USD
+iShares Core S&P Mid Cap ETF,ETF,Sell,2020-07-20,-25.0,4556.65,USD
+L3harris Technologies In,Stock,Sell,2020-07-20,-40.0,6688.25,USD
+Exxon Mobil Corp,Stock,Sell,2020-07-20,-50.0,2133.7,USD
+iShares MSCI Emerging Markets ETF,ETF,Sell,2020-07-20,-250.0,10803.51,USD
+Kroger Co,Stock,Sell,2020-07-20,-200.0,6792.85,USD
+Johnson & Johnson,Stock,Sell,2020-07-20,-25.0,3735.92,USD
+Comcast Corp Class                  A,Stock,Sell,2020-07-20,-150.0,6287.11,USD
+Apple Inc,Stock,Sell,2020-07-20,-10.0,3911.71,USD
+Becton Dickinson&co,Stock,Sell,2020-07-20,-10.0,2666.09,USD
+Becton Dickinson&co,Stock,Sell,2020-08-28,-90.0,21779.07,USD
+Cisco Systems Inc,Stock,Sell,2020-09-29,-75.0,2932.4500000000007,USD
+Exxon Mobil Corp,Stock,Sell,2020-09-29,-250.0,8516.06,USD
+Apple Inc,Stock,Sell,2020-09-29,-60.0,6855.280000000002,USD
+Adobe Inc,Stock,Sell,2020-09-29,-10.0,4915.64,USD
+Microsoft Corp,Stock,Sell,2020-10-09,-60.0,12868.52,USD
+Marathon Pete Corp,Stock,Sell,2020-10-09,-100.0,3074.93,USD
+Norfolk Southern Co,Stock,Sell,2020-10-09,-25.0,5437.38,USD
+Home Depot Inc,Stock,Sell,2020-10-09,-25.0,7157.09,USD
+Abbvie Inc,Stock,Sell,2020-10-09,-25.0,2214.2,USD
+Chevron Corp,Stock,Sell,2020-10-09,-75.0,5631.64,USD
+iShares Core S&P Mid Cap ETF,ETF,Sell,2020-10-09,-100.0,19975.57,USD
+Discover Finl S,Stock,Sell,2020-10-09,-100.0,6562.35,USD
+L3harris Technologies In,Stock,Sell,2020-10-09,-35.0,6235.99,USD
+Procter & Gamble,Stock,Sell,2020-10-09,-50.0,7175.09,USD
+Comcast Corp Class                  A,Stock,Sell,2020-10-09,-100.0,4519.4,USD
+Alphabet Inc. Class                  A,Stock,Sell,2020-10-09,-5.0,7507.559999999998,USD
+Prudential Finl,Stock,Sell,2020-10-09,-90.0,6155.87,USD
+Johnson & Johnson,Stock,Sell,2020-10-09,-50.0,7570.33,USD
+Emerson Electric Co,Stock,Sell,2020-10-09,-50.0,3545.42,USD
+SPDR S&P 600 Small Cap Value ETF,ETF,Sell,2020-10-09,-200.0,10988.76,USD
+iShares MSCI Emerging Markets ETF,ETF,Sell,2020-10-09,-300.0,13777.2,USD
+United Parcel SRVC Class                  B,Stock,Sell,2020-10-09,-25.0,4349.15,USD
+iShares MSCI EAFE Growth ETF,ETF,Sell,2020-10-09,-150.0,13825.19,USD
+Apple Inc,Stock,Sell,2020-10-09,-100.0,11604.16,USD
+J P Morgan Chase & Co,Stock,Sell,2020-10-09,-50.0,5097.4000000000015,USD
+Cummins Inc,Stock,Sell,2020-10-09,-25.0,5618.88,USD
+Alibaba Group Holding  F Sponsored ADR,Stock,Sell,2020-10-09,-50.0,15000.85,USD
+Nike Inc Class                  B,Stock,Sell,2020-10-09,-25.0,3261.93,USD
+Adobe Inc,Stock,Sell,2020-10-09,-10.0,4996.14,USD
+Kroger Co,Stock,Sell,2020-10-09,-100.0,3468.42,USD
+Facebook Inc Class                  A,Stock,Sell,2020-10-09,-15.0,3950.54,USD
+Intel Corp,Stock,Sell,2020-10-09,-100.0,5322.38,USD
+Eastman Chemical Co,Stock,Sell,2020-10-09,-125.0,10799.76,USD
+WalMart Inc,Stock,Sell,2020-10-09,-25.0,3573.8,USD
+Walt Disney Co,Stock,Sell,2020-10-09,-25.0,3098.43,USD
+Amgen Inc.,Stock,Sell,2020-10-09,-25.0,5971.87,USD
+Cisco Systems Inc,Stock,Sell,2020-10-16,-50.0,2008.97,USD
+L3harris Technologies In,Stock,Sell,2020-10-16,-25.0,4368.28,USD
+Microsoft Corp,Stock,Sell,2020-10-20,-15.0,3233.56,USD
+Norfolk Southern Co,Stock,Sell,2020-10-20,-15.0,3229.66,USD
+Apple Inc,Stock,Sell,2020-10-20,-40.0,4639.299999999998,USD
+Alphabet Inc. Class                  A,Stock,Sell,2020-10-26,-5.0,7888.03,USD
+Discover Finl S,Stock,Sell,2020-10-26,-40.0,2614.34,USD
+Kroger Co,Stock,Sell,2020-10-26,-50.0,1651.71,USD
+Abbvie Inc,Stock,Sell,2020-10-26,-75.0,6276.61,USD
+WalMart Inc,Stock,Sell,2020-10-26,-25.0,3546.05,USD
+Procter & Gamble,Stock,Sell,2020-10-26,-25.0,3520.92,USD
+Home Depot Inc,Stock,Sell,2020-10-26,-15.0,4126.49,USD
+Adobe Inc,Stock,Sell,2020-10-26,-10.0,4749.0,USD
+J P Morgan Chase & Co,Stock,Sell,2020-10-26,-35.0,3531.07,USD
+L3harris Technologies In,Stock,Sell,2020-10-26,-10.0,1702.11,USD
+Norfolk Southern Co,Stock,Sell,2020-10-26,-10.0,2101.95,USD
+CIGNA Corp,Stock,Sell,2020-10-26,-15.0,2715.99,USD
+Amgen Inc.,Stock,Sell,2020-10-26,-15.0,3349.28,USD
+Verizon Communicatn,Stock,Sell,2020-10-28,-50.0,2825.66,USD
+CIGNA Corp,Stock,Sell,2020-10-28,-50.0,8527.06,USD
+iShares MSCI EAFE Growth ETF,ETF,Sell,2020-10-28,-75.0,6539.87,USD
+Eastman Chemical Co,Stock,Sell,2020-10-28,-35.0,2804.67,USD
+Starbucks Corp,Stock,Sell,2020-10-28,-50.0,4347.15,USD
+WalMart Inc,Stock,Sell,2020-10-28,-25.0,3529.55,USD
+Walt Disney Co,Stock,Sell,2020-10-28,-25.0,2978.18,USD
+Norfolk Southern Co,Stock,Sell,2020-10-28,-15.0,2981.33,USD
+L3harris Technologies In,Stock,Sell,2020-10-28,-15.0,2455.98,USD
+Microsoft Corp,Stock,Sell,2020-10-28,-25.0,5137.27,USD
+Facebook Inc Class                  A,Stock,Sell,2020-10-28,-15.0,4064.39,USD
+Adobe Inc,Stock,Sell,2020-10-28,-10.0,4608.9,USD
+Amgen Inc.,Stock,Sell,2020-10-28,-25.0,5462.63,USD
+J P Morgan Chase & Co,Stock,Sell,2020-10-28,-65.0,6326.31,USD
+Apple Inc,Stock,Sell,2020-10-28,-35.0,3943.71,USD
+Discover Finl S,Stock,Sell,2020-10-28,-50.0,3157.43,USD
+Intel Corp,Stock,Sell,2020-10-28,-100.0,4458.379999999999,USD
+Bank Of America Corp,Stock,Sell,2020-10-28,-100.0,2350.45,USD
+Eastman Chemical Co,Stock,Sell,2020-11-05,-15.0,1305.5,USD
+Johnson & Johnson,Stock,Sell,2020-11-05,-25.0,3498.55,USD
+Amgen Inc.,Stock,Sell,2020-11-05,-15.0,3461.1,USD
+CIGNA Corp,Stock,Sell,2020-11-05,-5.0,1066.01,USD
+Marathon Pete Corp,Stock,Sell,2020-11-05,-75.0,2399.2,USD
+SPDR S&P 600 Small Cap Value ETF,ETF,Sell,2020-11-05,-200.0,10979.76,USD
+Alibaba Group Holding  F Sponsored ADR,Stock,Sell,2020-11-05,-30.0,8662.31,USD
+Apple Inc,Stock,Sell,2020-11-05,-75.0,8843.92,USD
+WalMart Inc,Stock,Sell,2020-11-05,-35.0,5013.64,USD
+Mastercard Inc Class                  A,Stock,Sell,2020-11-05,-50.0,15772.15,USD
+Starbucks Corp,Stock,Sell,2020-11-05,-25.0,2257.45,USD
+Verizon Communicatn,Stock,Sell,2020-11-05,-200.0,11730.74,USD
+Abbvie Inc,Stock,Sell,2020-11-05,-70.0,6530.86,USD
+iShares MSCI Emerging Markets ETF,ETF,Sell,2020-11-05,-100.0,4758.39,USD
+Procter & Gamble,Stock,Sell,2020-11-05,-30.0,4280.46,USD
+Microsoft Corp,Stock,Sell,2020-11-05,-60.0,13365.0,USD
+Chevron Corp,Stock,Sell,2020-11-05,-35.0,2538.49,USD
+iShares MSCI EAFE Growth ETF,ETF,Sell,2020-11-05,-80.0,7454.64,USD
+iShares Core S&P Mid Cap ETF,ETF,Sell,2020-11-05,-50.0,10153.28,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Sell,2021-01-19,-50000.0,50000.0,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Sell,2021-02-10,-50000.0,50000.0,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Sell,2021-02-18,-100000.0,100000.0,USD
+Chevron Corp,Stock,Sell,2021-02-24,-165.0,16988.329999999998,USD
+Procter & Gamble,Stock,Sell,2021-02-24,-45.0,5742.2,USD
+Adobe Inc,Stock,Sell,2021-02-24,-20.0,9440.25,USD
+Merck & Co. Inc.,Stock,Sell,2021-02-24,-200.0,14998.92,USD
+Eastman Chemical Co,Stock,Sell,2021-02-24,-25.0,2849.62,USD
+Cisco Systems Inc,Stock,Sell,2021-02-24,-500.0,22711.93,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Sell,2021-02-25,-100000.0,100000.0,USD
+Cummins Inc,Stock,Sell,2021-03-31,-25.0,6551.72,USD
+JPMorgan Ultra SHRT Muncipl Incm ETF,ETF,Sell,2021-04-01,-750.0,38276.05,USD
+JPMorgan Ultra SHRT Muncipl Incm ETF,ETF,Sell,2021-04-20,-2000.0,102139.68,USD
+Nike Inc Class                  B,Stock,Sell,2021-06-01,-25.0,3364.61,USD
+Mastercard Inc Class                  A,Stock,Sell,2021-06-01,-25.0,9029.2,USD
+Walt Disney Co,Stock,Sell,2021-06-01,-25.0,4478.61,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Distribution,2020-12-31,0.0,2.27,USD
+Mckesson Corp Exchange Offer,Stock,Dividend (Of Cash),2020-07-01,0.0,34.85,USD
+Nike Inc Class                  B,Stock,Dividend (Of Cash),2020-07-01,0.0,55.13,USD
+Merck & Co. Inc.,Stock,Dividend (Of Cash),2020-07-07,0.0,122.0,USD
+Eastman Chemical Co,Stock,Dividend (Of Cash),2020-07-10,0.0,330.0,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Dividend (Of Cash),2020-07-15,0.0,21.31,USD
+Cerner Corp,Stock,Dividend (Of Cash),2020-07-17,0.0,31.5,USD
+Cisco Systems Inc,Stock,Dividend (Of Cash),2020-07-22,0.0,225.0,USD
+Comcast Corp Class                  A,Stock,Dividend (Of Cash),2020-07-22,0.0,207.0,USD
+J P Morgan Chase & Co,Stock,Dividend (Of Cash),2020-07-31,0.0,540.0,USD
+Verizon Communicatn,Stock,Dividend (Of Cash),2020-08-03,0.0,153.75,USD
+Mastercard Inc Class                  A,Stock,Dividend (Of Cash),2020-08-07,0.0,70.0,USD
+Masco Corp,Stock,Dividend (Of Cash),2020-08-10,0.0,27.0,USD
+Apple Inc,Stock,Dividend (Of Cash),2020-08-13,0.0,155.8,USD
+Abbvie Inc,Stock,Dividend (Of Cash),2020-08-14,0.0,354.0,USD
+Procter & Gamble,Stock,Dividend (Of Cash),2020-08-17,0.0,237.21,USD
+Starbucks Corp,Stock,Dividend (Of Cash),2020-08-21,0.0,123.0,USD
+Charles Schwab Corp,Stock,Dividend (Of Cash),2020-08-28,0.0,72.0,USD
+Intel Corp,Stock,Dividend (Of Cash),2020-09-01,0.0,280.5,USD
+Kroger Co,Stock,Dividend (Of Cash),2020-09-01,0.0,90.0,USD
+Discover Finl S,Stock,Dividend (Of Cash),2020-09-03,0.0,193.6,USD
+Cummins Inc,Stock,Dividend (Of Cash),2020-09-03,0.0,131.1,USD
+Johnson & Johnson,Stock,Dividend (Of Cash),2020-09-08,0.0,227.25,USD
+Amgen Inc.,Stock,Dividend (Of Cash),2020-09-08,0.0,224.0,USD
+WalMart Inc,Stock,Dividend (Of Cash),2020-09-08,0.0,175.5,USD
+United Parcel SRVC Class                  B,Stock,Dividend (Of Cash),2020-09-09,0.0,176.75,USD
+Exxon Mobil Corp,Stock,Dividend (Of Cash),2020-09-10,0.0,217.5,USD
+Emerson Electric Co,Stock,Dividend (Of Cash),2020-09-10,0.0,150.0,USD
+Microsoft Corp,Stock,Dividend (Of Cash),2020-09-10,0.0,183.6,USD
+Norfolk Southern Co,Stock,Dividend (Of Cash),2020-09-10,0.0,117.5,USD
+Chevron Corp,Stock,Dividend (Of Cash),2020-09-10,0.0,258.0,USD
+Marathon Pete Corp,Stock,Dividend (Of Cash),2020-09-10,0.0,290.0,USD
+Prudential Finl,Stock,Dividend (Of Cash),2020-09-17,0.0,319.0,USD
+Home Depot Inc,Stock,Dividend (Of Cash),2020-09-17,0.0,225.0,USD
+BlackRock Inc,Stock,Dividend (Of Cash),2020-09-22,0.0,127.05,USD
+L3harris Technologies In,Stock,Dividend (Of Cash),2020-09-22,0.0,136.0,USD
+SPDR S&P 600 Small Cap Value ETF,ETF,Dividend (Of Cash),2020-09-24,0.0,129.08,USD
+Vanguard FTSE Developed Markets ETF,ETF,Dividend (Of Cash),2020-09-24,0.0,596.16,USD
+Bank Of America Corp,Stock,Dividend (Of Cash),2020-09-25,0.0,162.0,USD
+Ishars Edg MSCI USA QLTY FCTR ETF,ETF,Dividend (Of Cash),2020-09-29,0.0,88.31,USD
+iShares Core S&P Mid Cap ETF,ETF,Dividend (Of Cash),2020-09-29,0.0,333.24,USD
+Nike Inc Class                  B,Stock,Dividend (Of Cash),2020-10-01,0.0,55.13,USD
+Mckesson Corp Exchange Offer,Stock,Dividend (Of Cash),2020-10-01,0.0,35.7,USD
+Eastman Chemical Co,Stock,Dividend (Of Cash),2020-10-02,0.0,297.0,USD
+Merck & Co. Inc.,Stock,Dividend (Of Cash),2020-10-07,0.0,122.0,USD
+Cerner Corp,Stock,Dividend (Of Cash),2020-10-13,0.0,45.0,USD
+Cisco Systems Inc,Stock,Dividend (Of Cash),2020-10-21,0.0,198.0,USD
+Comcast Corp Class                  A,Stock,Dividend (Of Cash),2020-10-28,0.0,138.0,USD
+Agilent Technologies,Stock,Dividend (Of Cash),2020-10-28,0.0,29.7,USD
+Verizon Communicatn,Stock,Dividend (Of Cash),2020-11-02,0.0,156.88,USD
+J P Morgan Chase & Co,Stock,Dividend (Of Cash),2020-10-31,0.0,315.0,USD
+Masco Corp,Stock,Dividend (Of Cash),2020-11-09,0.0,28.0,USD
+Mastercard Inc Class                  A,Stock,Dividend (Of Cash),2020-11-09,0.0,70.0,USD
+Apple Inc,Stock,Dividend (Of Cash),2020-11-12,0.0,92.25,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Dividend (Of Cash),2020-11-16,0.0,2.72,USD
+Procter & Gamble,Stock,Dividend (Of Cash),2020-11-16,0.0,197.68,USD
+Abbvie Inc,Stock,Dividend (Of Cash),2020-11-16,0.0,324.5,USD
+Charles Schwab Corp,Stock,Dividend (Of Cash),2020-11-27,0.0,72.0,USD
+Starbucks Corp,Stock,Dividend (Of Cash),2020-11-27,0.0,101.25,USD
+Intel Corp,Stock,Dividend (Of Cash),2020-12-01,0.0,214.5,USD
+Kroger Co,Stock,Dividend (Of Cash),2020-12-01,0.0,63.0,USD
+United Parcel SRVC Class                  B,Stock,Dividend (Of Cash),2020-12-03,0.0,151.5,USD
+Discover Finl S,Stock,Dividend (Of Cash),2020-12-03,0.0,110.0,USD
+Cummins Inc,Stock,Dividend (Of Cash),2020-12-03,0.0,101.25,USD
+L3harris Technologies In,Stock,Dividend (Of Cash),2020-12-04,0.0,63.75,USD
+Johnson & Johnson,Stock,Dividend (Of Cash),2020-12-08,0.0,151.5,USD
+Amgen Inc.,Stock,Dividend (Of Cash),2020-12-08,0.0,96.0,USD
+Norfolk Southern Co,Stock,Dividend (Of Cash),2020-12-10,0.0,56.4,USD
+Microsoft Corp,Stock,Dividend (Of Cash),2020-12-10,0.0,112.0,USD
+Emerson Electric Co,Stock,Dividend (Of Cash),2020-12-10,0.0,126.25,USD
+Marathon Pete Corp,Stock,Dividend (Of Cash),2020-12-10,0.0,188.5,USD
+Chevron Corp,Stock,Dividend (Of Cash),2020-12-10,0.0,212.85,USD
+Prudential Finl,Stock,Dividend (Of Cash),2020-12-17,0.0,220.0,USD
+Home Depot Inc,Stock,Dividend (Of Cash),2020-12-17,0.0,165.0,USD
+iShares Core S&P Mid Cap ETF,ETF,Dividend (Of Cash),2020-12-18,0.0,164.91,USD
+Ishars Edg MSCI USA QLTY FCTR ETF,ETF,Dividend (Of Cash),2020-12-18,0.0,81.56,USD
+iShares MSCI EAFE Growth ETF,ETF,Dividend (Of Cash),2020-12-18,0.0,244.96,USD
+iShares MSCI Emerging Markets ETF,ETF,Dividend (Of Cash),2020-12-18,0.0,700.51,USD
+BlackRock Inc,Stock,Dividend (Of Cash),2020-12-21,0.0,127.05,USD
+SPDR S&P 600 Small Cap Value ETF,ETF,Dividend (Of Cash),2020-12-24,0.0,231.62,USD
+Bank Of America Corp,Stock,Dividend (Of Cash),2020-12-24,0.0,144.0,USD
+Vanguard FTSE Developed Markets ETF,ETF,Dividend (Of Cash),2020-12-24,0.0,1119.69,USD
+Nike Inc Class                  B,Stock,Dividend (Of Cash),2020-12-29,0.0,55.0,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Dividend (Of Cash),2020-12-31,0.0,11.92,USD
+Broadcom Inc,Stock,Dividend (Of Cash),2020-12-31,0.0,180.0,USD
+WalMart Inc,Stock,Dividend (Of Cash),2021-01-04,0.0,116.1,USD
+Mckesson Corp Exchange Offer,Stock,Dividend (Of Cash),2021-01-04,0.0,35.7,USD
+Merck & Co. Inc.,Stock,Dividend (Of Cash),2021-01-08,0.0,130.0,USD
+Eastman Chemical Co,Stock,Dividend (Of Cash),2021-01-08,0.0,189.75,USD
+Cerner Corp,Stock,Dividend (Of Cash),2021-01-12,0.0,55.0,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Dividend (Of Cash),2021-01-15,0.0,3.73,USD
+Cisco Systems Inc,Stock,Dividend (Of Cash),2021-01-20,0.0,180.0,USD
+Agilent Technologies,Stock,Dividend (Of Cash),2021-01-27,0.0,32.01,USD
+Comcast Corp Class                  A,Stock,Dividend (Of Cash),2021-01-27,0.0,115.0,USD
+J P Morgan Chase & Co,Stock,Dividend (Of Cash),2021-01-31,0.0,180.0,USD
+JPMorgan Ultra SHRT Muncipl Incm ETF,ETF,Dividend (Of Cash),2021-02-04,0.0,94.96,USD
+Masco Corp,Stock,Dividend (Of Cash),2021-02-08,0.0,28.0,USD
+Mastercard Inc Class                  A,Stock,Dividend (Of Cash),2021-02-09,0.0,55.0,USD
+Apple Inc,Stock,Dividend (Of Cash),2021-02-11,0.0,92.25,USD
+Abbvie Inc,Stock,Dividend (Of Cash),2021-02-16,0.0,169.0,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Dividend (Of Cash),2021-02-16,0.0,5.82,USD
+Procter & Gamble,Stock,Dividend (Of Cash),2021-02-16,0.0,154.19,USD
+Charles Schwab Corp,Stock,Dividend (Of Cash),2021-02-26,0.0,72.0,USD
+Kroger Co,Stock,Dividend (Of Cash),2021-03-01,0.0,63.0,USD
+Intel Corp,Stock,Dividend (Of Cash),2021-03-01,0.0,225.88,USD
+Discover Finl S,Stock,Dividend (Of Cash),2021-03-04,0.0,110.0,USD
+JPMorgan Ultra SHRT Muncipl Incm ETF,ETF,Dividend (Of Cash),2021-03-04,0.0,165.92,USD
+Cummins Inc,Stock,Dividend (Of Cash),2021-03-04,0.0,101.25,USD
+Starbucks Corp,Stock,Dividend (Of Cash),2021-03-05,0.0,101.25,USD
+Amgen Inc.,Stock,Dividend (Of Cash),2021-03-08,0.0,105.6,USD
+Johnson & Johnson,Stock,Dividend (Of Cash),2021-03-09,0.0,151.5,USD
+Chevron Corp,Stock,Dividend (Of Cash),2021-03-10,0.0,212.85,USD
+United Parcel SRVC Class                  B,Stock,Dividend (Of Cash),2021-03-10,0.0,153.0,USD
+Norfolk Southern Co,Stock,Dividend (Of Cash),2021-03-10,0.0,59.4,USD
+Emerson Electric Co,Stock,Dividend (Of Cash),2021-03-10,0.0,126.25,USD
+Marathon Pete Corp,Stock,Dividend (Of Cash),2021-03-10,0.0,188.5,USD
+Prudential Finl,Stock,Dividend (Of Cash),2021-03-11,0.0,230.0,USD
+Microsoft Corp,Stock,Dividend (Of Cash),2021-03-11,0.0,112.0,USD
+Schwab Value Advantage Money Fund,Money Market Fund,Dividend (Of Cash),2021-03-15,0.0,0.89,USD
+BlackRock Inc,Stock,Dividend (Of Cash),2021-03-23,0.0,144.55,USD
+Vanguard FTSE Developed Markets ETF,ETF,Dividend (Of Cash),2021-03-25,0.0,624.24,USD
+Home Depot Inc,Stock,Dividend (Of Cash),2021-03-25,0.0,181.5,USD
+SPDR S&P 600 Small Cap Value ETF,ETF,Dividend (Of Cash),2021-03-25,0.0,275.83,USD
+CIGNA Corp,Stock,Dividend (Of Cash),2021-03-25,0.0,130.0,USD
+L3harris Technologies In,Stock,Dividend (Of Cash),2021-03-26,0.0,76.5,USD
+Bank Of America Corp,Stock,Dividend (Of Cash),2021-03-26,0.0,144.0,USD
+iShares Core S&P Mid Cap ETF,ETF,Dividend (Of Cash),2021-03-31,0.0,166.8,USD
+Broadcom Inc,Stock,Dividend (Of Cash),2021-03-31,0.0,180.0,USD
+Ishars Edg MSCI USA QLTY FCTR ETF,ETF,Dividend (Of Cash),2021-03-31,0.0,107.98,USD
+Nike Inc Class                  B,Stock,Dividend (Of Cash),2021-04-01,0.0,55.0,USD
+Mckesson Corp Exchange Offer,Stock,Dividend (Of Cash),2021-04-01,0.0,35.7,USD
+WalMart Inc,Stock,Dividend (Of Cash),2021-04-05,0.0,118.25,USD
+Eastman Chemical Co,Stock,Dividend (Of Cash),2021-04-05,0.0,172.5,USD
+JPMorgan Ultra SHRT Muncipl Incm ETF,ETF,Dividend (Of Cash),2021-04-07,0.0,86.88,USD
+Cerner Corp,Stock,Dividend (Of Cash),2021-04-20,0.0,55.0,USD
+Comcast Corp Class                  A,Stock,Dividend (Of Cash),2021-04-28,0.0,125.0,USD
+Agilent Technologies,Stock,Dividend (Of Cash),2021-04-28,0.0,32.01,USD
+J P Morgan Chase & Co,Stock,Dividend (Of Cash),2021-04-30,0.0,180.0,USD
+JPMorgan Ultra SHRT Muncipl Incm ETF,ETF,Dividend (Of Cash),2021-05-06,0.0,76.91,USD
+Mastercard Inc Class                  A,Stock,Dividend (Of Cash),2021-05-07,0.0,55.0,USD
+Apple Inc,Stock,Dividend (Of Cash),2021-05-13,0.0,99.0,USD
+Abbvie Inc,Stock,Dividend (Of Cash),2021-05-14,0.0,169.0,USD
+Procter & Gamble,Stock,Dividend (Of Cash),2021-05-17,0.0,130.47,USD
+Norfolk Southern Co,Stock,Dividend (Of Cash),2021-05-20,0.0,59.4,USD
+Starbucks Corp,Stock,Dividend (Of Cash),2021-05-28,0.0,101.25,USD
+Charles Schwab Corp,Stock,Dividend (Of Cash),2021-05-28,0.0,72.0,USD
+WalMart Inc,Stock,Dividend (Of Cash),2021-06-01,0.0,118.25,USD
+Kroger Co,Stock,Dividend (Of Cash),2021-06-01,0.0,63.0,USD
+Intel Corp,Stock,Dividend (Of Cash),2021-06-01,0.0,225.88,USD
+Jabil Circuit Inc,Stock,Dividend (Of Cash),2021-06-02,0.0,24.0,USD
+Cummins Inc,Stock,Dividend (Of Cash),2021-06-03,0.0,67.5,USD
+Discover Finl S,Stock,Dividend (Of Cash),2021-06-03,0.0,110.0,USD
+JPMorgan Ultra SHRT Muncipl Incm ETF,ETF,Dividend (Of Cash),2021-06-04,0.0,59.01,USD
+Johnson & Johnson,Stock,Dividend (Of Cash),2021-06-08,0.0,159.0,USD
+Amgen Inc.,Stock,Dividend (Of Cash),2021-06-08,0.0,105.6,USD
+United Parcel SRVC Class                  B,Stock,Dividend (Of Cash),2021-06-09,0.0,153.0,USD
+Exxon Mobil Corp,Stock,Dividend (Of Cash),2021-06-10,0.0,130.5,USD
+Emerson Electric Co,Stock,Dividend (Of Cash),2021-06-10,0.0,126.25,USD
+Marathon Pete Corp,Stock,Dividend (Of Cash),2021-06-10,0.0,232.0,USD
+Microsoft Corp,Stock,Dividend (Of Cash),2021-06-10,0.0,112.0,USD
+Masco Corp,Stock,Dividend (Of Cash),2021-06-14,0.0,47.0,USD
+L3harris Technologies In,Stock,Dividend (Of Cash),2021-06-15,0.0,76.5,USD
+Ishars Edg MSCI USA QLTY FCTR ETF,ETF,Dividend (Of Cash),2021-06-16,0.0,75.69,USD
+iShares MSCI EAFE Growth ETF,ETF,Dividend (Of Cash),2021-06-16,0.0,620.77,USD
+iShares Core S&P Mid Cap ETF,ETF,Dividend (Of Cash),2021-06-16,0.0,184.59,USD
+iShares MSCI Emerging Markets ETF,ETF,Dividend (Of Cash),2021-06-16,0.0,325.09,USD
+Home Depot Inc,Stock,Dividend (Of Cash),2021-06-17,0.0,181.5,USD
+Prudential Finl,Stock,Dividend (Of Cash),2021-06-17,0.0,230.0,USD
+BlackRock Inc,Stock,Dividend (Of Cash),2021-06-23,0.0,144.55,USD
+CIGNA Corp,Stock,Dividend (Of Cash),2021-06-23,0.0,130.0,USD
+SPDR S&P 600 Small Cap Value ETF,ETF,Dividend (Of Cash),2021-06-24,0.0,238.72,USD
+Vanguard FTSE Developed Markets ETF,ETF,Dividend (Of Cash),2021-06-24,0.0,1116.45,USD
+Bank Of America Corp,Stock,Dividend (Of Cash),2021-06-25,0.0,144.0,USD
+Broadcom Inc,Stock,Dividend (Of Cash),2021-06-30,0.0,180.0,USD
+Alibaba Group Holding  F Sponsored ADR,Stock,Fee,2021-05-11,0.0,-1.4,USD
+Arlington CNTY VA   4%27 Go Utx      Due 08/01/27,Bond,Interest Income,2020-08-01,0.0,2000.0,USD
+VA ST Pub BLDG Auth 5%21 BLDG Auth   Due 08/01/21,Bond,Interest Income,2020-08-01,0.0,3750.0,USD
+Hampton VA          5%23 Go Utx      Due 09/01/23,Bond,Interest Income,2020-09-01,0.0,2500.0,USD
+VA CMWLTH Trans BRD 4%26 GRNT        Due 03/15/26,Bond,Interest Income,2020-09-15,0.0,3000.0,USD
+Fairfax CNTY VA     5%23 Go Utx      Due 10/01/23,Bond,Interest Income,2020-10-01,0.0,2500.0,USD
+Virginia State Res  5%22 Finl Auth   Due 11/01/22,Bond,Interest Income,2020-11-01,0.0,125.0,USD
+VA CMWLTH Univ      5%20 Pub Educ    Due 11/01/20,Bond,Interest Income,2020-11-01,0.0,2500.0,USD
+Virginia State Res  5%22 **Partial**,Bond,Interest Income,2020-11-01,0.0,1125.0,USD
+VA ST Pub BLDG Auth 5%21 BLDG Auth   Due 08/01/21,Bond,Interest Income,2021-02-01,0.0,3750.0,USD
+Arlington CNTY VA   4%27 Go Utx      Due 08/01/27,Bond,Interest Income,2021-02-01,0.0,2000.0,USD
+Hampton VA          5%23 Go Utx      Due 09/01/23,Bond,Interest Income,2021-03-01,0.0,2500.0,USD
+VA CMWLTH Trans BRD 4%26 GRNT        Due 03/15/26,Bond,Interest Income,2021-03-15,0.0,3000.0,USD
+Fairfax CNTY VA     5%23 Go Utx      Due 10/01/23,Bond,Interest Income,2021-04-01,0.0,2500.0,USD
+Virginia State Res  5%22 **Partial**,Bond,Interest Income,2021-05-01,0.0,1125.0,USD
+Virginia State Res  5%22 Finl Auth   Due 11/01/22,Bond,Interest Income,2021-05-01,0.0,125.0,USD
+VA CMWLTH Univ      5%20 Pub Educ    Due 11/01/20,Bond,Redemption,2020-11-01,-100.0,100000.0,USD
+Apple Inc,Stock,Split,2020-08-31,570.0,0.0,USD

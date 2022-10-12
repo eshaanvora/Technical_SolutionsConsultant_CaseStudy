@@ -1,0 +1,43 @@
+﻿Transaction Type,New Transaction Type
+Accrued Int Rcv,Interest Income
+Asset Bought,Buy
+Asset Bought-reinv,Dividend (Of Stock)
+Asset Sold,Sell
+Buy,Buy
+Capital Call,Capital Call
+Capital Gains Distribution,Distribution
+Cash Dividend,Dividend (Of Cash)
+Commitment,Commitment
+Contribution,Contribution
+Corporate Interest,Interest Income
+Cost Adjustment,Proceeds Adjustment
+Credit,Journal In
+Debit,Journal Out
+Deposit,Deposit
+Distribution,Distribution
+Exchange,Corporate Action
+Fees,Fee
+Foreign Interest,Interest Income
+Income,Income
+Interest,Interest Income
+Interest Expense,Expense
+Interest Income,Interest Income
+Interest Received,Interest Income
+Management Fee,Account Fee (Management)
+Misc. Disbursement,Distribution
+Name Change,Corporate Action
+Other Income,Income
+Outgoing Wire,Withdrawal
+Purchase,Buy
+Receipt of Assets,Transfer In
+Redemption,Redemption
+Sale,Sell
+Security Called,Transfer Out
+Security Redeemed,Redemption
+Sell,Sell
+Spot FX,Foreign Exchange (Spot)
+Stock Spinoff,Spinoff
+Stock Split,Split
+Tax,Tax
+Withdrawal,Withdrawal
+Wrap Fee,Account Fee (Management)
