@@ -5,6 +5,8 @@ In this exercise, I performed data transformation via Python Pandas and MySQL Se
 
 The case study company is a comprehensive wealth management product suite, in which the data aggregation step enables a flexible internal data ownership structure allowing dynamic financial reporting on all 3 levels (client, household, & account). I attempted to mimic the tech stack that the company uses which is why I performed my data transformations via Python Pandas and MySQL server.
 
+TIME TO COMPLETE: 72 HOURS
+
 Note:
 Please read the executive summary file for an in-depth coverage of the methods used to transform the client's legacy data into the new format.
 
